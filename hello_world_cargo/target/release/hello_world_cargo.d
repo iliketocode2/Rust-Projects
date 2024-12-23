@@ -1,0 +1,1 @@
+C:\Users\William\OneDrive\Desktop\VS\ Code\ PROJECTS\Rust-Projects\hello_world_cargo\target\release\hello_world_cargo.exe: C:\Users\William\OneDrive\Desktop\VS\ Code\ PROJECTS\Rust-Projects\hello_world_cargo\src\main.rs

@@ -1,6 +1,6 @@
 # Rust Projects
  
-Working on projects over winter break (2024-25) for InterSystems.
+Working through the Rust Book to learn Rust for a project over winter break (2024-25) lead by a developer at InterSystems. 
 
 To view actual rust code (.rs) and not other files:
 1. Navigate to a project folder (ex: hello_world)
